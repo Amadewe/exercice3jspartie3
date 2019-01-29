@@ -18,6 +18,6 @@
 // Dans mon JS je renseigne 'color' dans les paramètres de ma fonction changecolor
 // Je recupère color de ma fonction dans ma propriété style.color.
 
-function changecolor(color) {
+function changeColor(color) {
 document.getElementById('text').style.color=  color;
 }
